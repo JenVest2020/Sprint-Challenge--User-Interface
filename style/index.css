@@ -157,8 +157,18 @@ p {
   margin: 0 auto;
 }
 .navigation {
+  height: 80px;
   display: flex;
-  border: 1px solid blue;
+  align-items: center;
+}
+.navigation nav {
+  width: 80%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.navigation img {
+  align-self: baseline;
+  margin-top: 1%;
 }
 
 .top-content {
