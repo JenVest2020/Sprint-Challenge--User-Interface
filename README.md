@@ -33,13 +33,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML makes code easier to read by using tags that have meaning and give meaning to each line of code such as <section>,<header>,<nav>,<img>,<p>,<h1-h6>, and many more.
+
 2. What are the 4 areas of the box model?
+
+Content, Padding, Border, Margin.
 
 3. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+Align only works on the cross axis.
+
 4. Explain why git is valuable to a team of developers.
 
+The git version control system is valuable to a team of developers because it records all changes to a file or set of files and helps them to recall specific versions of the code later on when they need it. It allows them the ability to find who last modified a piece of code, who introduced a specific issue and when, and much more. Specifically Git is advantageous to use because it performs very reliably and strong, maintains the intergrity of the source code by secured cryptography, has the flexibility of several different kinds of nonlinear development workflows, and is the most widely accepted and used control system today.
+
 5. Define mobile-first design in your own words.
+
+It's when you begin designing a site using the smallest screen size and working your way up to the largest.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
